@@ -15,4 +15,3 @@ Shebang means this `#!`. Bash scripts have to start with `#!/bin/bash`.
 Basically it specifies that it has to be executed using the bash shell.
 
 ### Bash Functions
-
